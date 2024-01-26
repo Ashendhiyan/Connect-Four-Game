@@ -5,7 +5,9 @@ by playing the right moves.
 
 
 ## Technicle Stack
-Java, JavaFX, OOP Concept
+* Java
+* JavaFX
+* OOP Concept
 
 ## Screenshots
 
